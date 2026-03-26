@@ -12,5 +12,11 @@
 <br>
 
 ### 🛠 Tech Stack
-- **Backend:** Java, Spring Boot, Spring Batch, Spring Data JPA, Docker
+- **Backend:** Java, Spring Boot, Spring Batch, Spring Data JPA
 - **Database / MQ:** MySQL, Kafka
+- **Infra / Deployment:** Docker, AWS EC2, RDS, S3, GitHub Actions
+
+<br>
+
+### 📫 Contact
+- Email: tmddjr_0331@naver.com

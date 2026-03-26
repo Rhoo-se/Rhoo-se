@@ -1,16 +1,16 @@
-## Hi there 👋
+### 데이터 정합성과 대용량 처리 성능을 고려하며 백엔드를 개발하고 있습니다.
 
-<!--
-**Rhoo-se/Rhoo-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 💼 Experience
+- 정산 데이터 간 불일치 검증 로직 구현
+- 멱등성을 고려한 중복 처리 방지 구조 설계
+- 인덱스 설계 및 쿼리 최적화를 통한 조회 성능 개선
+- Batch 처리 과정에서 병목을 개선하여 처리 성능 향상
+- Kafka 기반 이벤트 처리 구조를 적용하여 서비스 간 결합도 완화
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🛠 Tech Stack
+- **Backend:** Java, Spring Boot, Spring Batch, Spring Data JPA, Docker
+- **Database / MQ:** MySQL, Kafka

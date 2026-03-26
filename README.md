@@ -14,7 +14,7 @@
 ### 🛠 Tech Stack
 - **Backend:** Java, Spring Boot, Spring Batch, Spring Data JPA
 - **Database / MQ:** MySQL, Kafka
-- **Infra / Deployment:** Docker, AWS EC2, RDS, S3, GitHub Actions
+- **Infra / Deployment:** Docker, AWS EC2, RDS, S3
 
 <br>
 
